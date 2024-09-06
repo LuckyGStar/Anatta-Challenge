@@ -1,0 +1,11 @@
+// environment variables
+.env
+
+// node
+node_modules
+
+// mac files
+.DS_Store
+
+// compiler
+dist
